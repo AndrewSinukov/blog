@@ -4,6 +4,19 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="App\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Command" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Controller" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/DataFixtures" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Entity" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Event" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/EventListener" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Form" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Repository" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Security" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Service" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/__restore/Twig" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/cache" />
@@ -91,6 +104,19 @@
     <orderEntry type="module-library">
       <library name="PHP" type="php">
         <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/__restore/Command" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Controller" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/DataFixtures" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Entity" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Event" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/EventListener" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Form" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Mailer" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Migrations" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Repository" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Security" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Service" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Twig" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />
@@ -158,6 +184,19 @@
           <root url="file://$MODULE_DIR$/vendor/zendframework/zend-eventmanager" />
         </CLASSES>
         <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/__restore/Command" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Controller" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/DataFixtures" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Entity" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Event" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/EventListener" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Form" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Mailer" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Migrations" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Repository" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Security" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Service" />
+          <root url="file://$MODULE_DIR$/vendor/__restore/Twig" />
           <root url="file://$MODULE_DIR$/vendor/composer" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
           <root url="file://$MODULE_DIR$/vendor/doctrine/cache" />

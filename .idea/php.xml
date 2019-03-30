@@ -67,6 +67,19 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
       <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Security" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Service" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Twig" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Controller" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Command" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Event" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Entity" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Migrations" />
+      <path value="$PROJECT_DIR$/vendor/__restore/DataFixtures" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Repository" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Mailer" />
+      <path value="$PROJECT_DIR$/vendor/__restore/Form" />
+      <path value="$PROJECT_DIR$/vendor/__restore/EventListener" />
     </include_path>
   </component>
   <component name="PhpInterpreters">

@@ -1,0 +1,48 @@
+###> symfony/framework-bundle ###
+/.env
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> project-directory ###
+/.idea
+#/composer.lock
+/docker/logs/
+*.log
+/docker/npm-debug.log
+###< project-directory ###
+###> symfony/webpack-encore-pack ###
+/node_modules/
+4   npm-debug.log
+yarn-error.log
+web-develop/node_modules/
+###< symfony/webpack-encore-pack ###
+
+###> friendsofphp/php-cs-fixer ###
+/.php_cs
+/.php_cs.cache
+###< friendsofphp/php-cs-fixer ###
+.DS_Store
+
+###> symfony/phpunit-bridge ###
+.phpunit
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+# testing
+/coverage
+
+# production
+/ui-app/build
+
+# misc
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+docker/php-fpm/php.ini
+
+###> phpunit/phpunit ###
+/phpunit.xml
+###< phpunit/phpunit ###
